@@ -1,0 +1,10 @@
+pandas
+openpyxl
+pymupdf
+pymupdf4llm
+python-dotenv
+pydantic
+pydantic-settings
+pytest
+ruff
+black
