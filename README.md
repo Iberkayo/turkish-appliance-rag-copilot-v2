@@ -1,6 +1,6 @@
 # Turkish Appliance RAG Copilot v2
 
-Public Vestel kullanım kılavuzları üzerinde teknik doküman destekli RAG sistemi geliştirmek.
+Public kullanım kılavuzları üzerinde teknik doküman destekli RAG sistemi geliştirmek.
 
 ## İlk Milestone
 
